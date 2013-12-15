@@ -1,0 +1,6 @@
+Задача 5. Сокеты.
+
+Порт: 2013(в коде можно изменить =))
+Запуск:
+gcc -std=c99 ./selectServer.c -o server (gcc -std=c99 ./pollServer.c -o server)
+./server 
